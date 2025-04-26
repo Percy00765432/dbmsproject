@@ -1,6 +1,6 @@
-🚇 Metro Card Management
+#🚇 Metro Card Management
 
-📋 Description
+##📋 Description
 
 Metro Card Management is a web-based system to track and manage metro card transactions.
 It handles card issuing, recharges, fare calculations, penalties, and transaction analytics for metro commuters.
@@ -32,7 +32,7 @@ It handles card issuing, recharges, fare calculations, penalties, and transactio
 
     Daily analytics for total rides and revenue
 
-📂 Project Structure
+##📂 Project Structure
 
 /css/              -> Stylesheets
 /includes/         -> PHP include/configuration files
@@ -48,7 +48,7 @@ station.php        -> Station Management Page
 /database/metro.sql -> SQL database schema
 README.md          -> Project Instructions
 
-🛠️ Setup Instructions
+##🛠️ Setup Instructions
 1. Install XAMPP
 
     Download and install XAMPP.
@@ -101,7 +101,7 @@ Open your browser and visit:
 
 http://localhost/metro-card-management/index.php
 
-🛢️ Database Overview
+##🛢️ Database Overview
 Table	Description
 users	Stores users (admin, operator, passenger)
 metro_cards	Issued metro cards and their status
@@ -112,9 +112,8 @@ recharges	Recharge history of metro cards
 penalties	Penalty records for misuse
 analytics	Daily ride and revenue statistics
 
-📜 License
+##👨‍💻 Author
 
-This project is licensed under the MIT License.
-👨‍💻 Author
-
-[Your Name or GitHub username]
+Prathik K B, 1RUA24CSE0327
+Raghav Raina, 1RUA24CSE0352
+Raahul S Nayar, 1RUA24CSE0346
