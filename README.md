@@ -97,7 +97,7 @@ git clone https://github.com/Percy00765432/dbmsproject.git
 ### 6. Run the Application
 Open your browser and visit:
 ```
-http://localhost/metro-card-management/index.php
+http://localhost/dbmsproject/index.php
 ```
 
 ---
