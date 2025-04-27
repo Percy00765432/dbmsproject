@@ -62,7 +62,7 @@ README.md          -> Project Instructions
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/your-username/metro-card-management.git
+git clone https://github.com/Percy00765432/dbmsproject.git
 ```
 
 ### 3. Move Project to XAMPP Directory
