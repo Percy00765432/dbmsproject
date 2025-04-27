@@ -30,8 +30,6 @@ It handles card issuing, recharges, fare calculations, penalties, and transactio
 - Entry/exit tracking and fare calculation
 - Recharge cards online
 - Admin panel for user and transaction management
-- Penalty system for invalid travel
-- Daily analytics for total rides and revenue
 
 ---
 
