@@ -118,8 +118,8 @@ http://localhost/metro-card-management/index.php
 ---
 
 ## 👨‍💻 Author
-Prathik K B - 1RUA24CSE0327
-Raghav Raina - 1RUA24CSE0352
-Raaahul S Nayar - 1RUA24CSE0346
+### Prathik K B - 1RUA24CSE0327
+### Raghav Raina - 1RUA24CSE0352
+### Raaahul S Nayar - 1RUA24CSE0346
 ---
 
