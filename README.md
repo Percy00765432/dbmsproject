@@ -117,21 +117,9 @@ http://localhost/metro-card-management/index.php
 
 ---
 
-## 📸 Screenshots
-*(Add screenshots of login, dashboard, transaction history, recharge page here)*
-
----
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 👨‍💻 Author
-[Your Name or GitHub username]
-
+Prathik K B - 1RUA24CSE0327
+Raghav Raina - 1RUA24CSE0352
+Raaahul S Nayar - 1RUA24CSE0346
 ---
 
-# 🚀 Happy Coding!
-
----
