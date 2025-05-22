@@ -48,7 +48,7 @@ index.php          -> Login Page
 logout.php         -> Logout functionality
 register.php       -> User Registration Page
 station.php        -> Station Management Page
-/database/metro.sql -> SQL database schema
+metro.sql -> SQL database schema
 README.md          -> Project Instructions
 ```
 
