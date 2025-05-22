@@ -40,6 +40,7 @@ It handles card issuing, recharges, fare calculations, penalties, and transactio
 /includes/         -> PHP include/configuration files
 /js/               -> JavaScript scripts
 
+profile.php        -> Profile Editing Page
 admin.php          -> Admin Dashboard Page
 dashboard.php      -> User Dashboard Page
 get_card_details.php -> Fetch Metro Card Details (AJAX/Backend)
