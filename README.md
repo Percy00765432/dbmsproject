@@ -38,19 +38,20 @@ It handles card issuing, recharges, fare calculations, penalties, and transactio
 ## 📂 Project Structure
 
 ```
-/css/              -> Stylesheets
-/includes/         -> PHP include/configuration files
-/js/               -> JavaScript scripts
+/css/                -> Stylesheets
+/includes/           -> PHP include/configuration files
+/js/                 -> JavaScript scripts
 
-admin.php          -> Admin Dashboard Page
-dashboard.php      -> User Dashboard Page
+admin.php            -> Admin Dashboard Page
+dashboard.php        -> User Dashboard Page
 get_card_details.php -> Fetch Metro Card Details (AJAX/Backend)
-index.php          -> Login Page
-logout.php         -> Logout functionality
-register.php       -> User Registration Page
-station.php        -> Station Management Page
-/database/metro.sql -> SQL database schema
-README.md          -> Project Instructions
+index.php            -> Login Page
+logout.php           -> Logout functionality
+register.php         -> User Registration Page
+station.php          -> Station Management Page
+metro.sql            -> SQL database schema
+README.md            -> Project Instructions
+profile.php          -> Profile Editing Page
 ```
 
 ---
